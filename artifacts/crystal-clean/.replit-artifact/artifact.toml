@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Crystal Clean Car Wash"
+version = "1.0.0"
+id = "artifacts/crystal-clean"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21494
+
+[services.development]
+run = "pnpm --filter @workspace/crystal-clean run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/crystal-clean", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/crystal-clean/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21494"
+BASE_PATH = "/"

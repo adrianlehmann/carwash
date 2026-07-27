@@ -1,0 +1,593 @@
+# REPLIT WEBSITE BUILD PROMPT
+
+Create a modern, visually stunning, SEO-optimized website for **Crystal Clean Car Wash**, a locally trusted, 24-hour car wash in Joplin, Missouri. The website should immediately communicate convenience, quality, affordability, and exceptional cleaning results.
+
+The design should feel bright, fresh, and modern with clean layouts, smooth animations, high-quality vehicle photography, and strong calls-to-action.
+
+The goal is to encourage visitors to choose Crystal Clean Car Wash over competing automatic car washes by highlighting the quality of the wash, spotless results, affordable pricing, and well-maintained equipment.
+
+---
+
+# Business Information
+
+**Business Name:**
+Crystal Clean Car Wash
+
+**Tagline:**
+Spotless Every Time
+
+**Category:**
+Car Wash
+
+**Address:**
+2202 S Main St
+Joplin, MO 64804
+
+**Phone:**
+(417) 624-8717
+
+---
+
+# Business Hours
+
+Open 24 Hours
+
+Monday – Sunday
+
+---
+
+# Brand Personality
+
+The website should feel:
+
+* Clean
+* Modern
+* Friendly
+* Convenient
+* Reliable
+* Affordable
+* Family Friendly
+* Automotive Enthusiast Approved
+
+---
+
+# Design Style
+
+Create a premium modern design inspired by:
+
+* Tommy's Express
+* Mister Car Wash
+* Tesla aesthetic
+* Modern automotive websites
+
+Use:
+
+* Large hero images
+* Glassmorphism cards
+* Smooth scroll animations
+* Rounded corners
+* White backgrounds
+* Plenty of spacing
+* High-quality photography
+* Water-inspired gradients
+
+---
+
+# Color Palette
+
+Primary Blue
+
+#0099E5
+
+Dark Blue
+
+#0069B3
+
+Aqua
+
+#33CFFF
+
+White
+
+#FFFFFF
+
+Light Gray
+
+#F5F7FA
+
+Dark Gray
+
+#2F3640
+
+Accent Green
+
+#35C759
+
+Buttons
+
+Bright Blue
+
+Hover
+
+Dark Blue
+
+---
+
+# Typography
+
+Headings
+
+Poppins Bold
+
+Body
+
+Inter
+
+Buttons
+
+Semi Bold
+
+---
+
+# Website Structure
+
+## Sticky Header
+
+Logo
+
+Navigation
+
+Home
+
+Wash Options
+
+Amenities
+
+Gallery
+
+Reviews
+
+FAQ
+
+Contact
+
+Right Side CTA
+
+Get Directions
+
+Call (417) 624-8717
+
+---
+
+# Hero Section
+
+Background:
+
+Beautiful luxury vehicle covered in water droplets after being professionally washed.
+
+Headline
+
+## Get a Spotless Shine—Any Time, Day or Night
+
+Subheadline
+
+Crystal Clean Car Wash offers both touchless and soft-touch automatic washes, self-service wash bays, powerful vacuums, and premium cleaning equipment—all available 24 hours a day.
+
+Buttons
+
+Get Directions
+
+Call Now
+
+Trust Badges
+
+✔ Open 24 Hours
+
+✔ Touchless & Soft-Touch Washes
+
+✔ Self-Service Bays
+
+✔ Vacuums Available
+
+✔ Credit Cards Accepted
+
+---
+
+# Why Choose Crystal Clean
+
+Headline
+
+Why Drivers Choose Crystal Clean
+
+Create feature cards.
+
+### Open 24/7
+
+Wash your vehicle whenever it's convenient.
+
+### Touchless Wash
+
+Protect your paint with a gentle touch-free cleaning option.
+
+### Soft-Touch Wash
+
+Deep cleaning using modern soft-touch technology.
+
+### Self-Service Bays
+
+Take your time and clean every detail.
+
+### Powerful Vacuums
+
+Strong suction to leave your interior spotless.
+
+### Spot-Free Rinse
+
+No water spots. No streaks.
+
+### Hot Water Wash
+
+Better cleaning performance.
+
+### Credit Card & Coin Payment
+
+Convenient payment options for everyone.
+
+---
+
+# Wash Options
+
+Create premium cards.
+
+## Touchless Automatic Wash
+
+Perfect for maintaining delicate paint finishes.
+
+---
+
+## Soft-Touch Automatic Wash
+
+Gentle yet thorough cleaning for everyday vehicles.
+
+---
+
+## Self-Service Wash Bays
+
+Take control with professional equipment including:
+
+* High-pressure wash
+* Foaming brush
+* Soap
+* Wax
+* Spot-free rinse
+* Air dryer
+
+---
+
+## Vacuum Stations
+
+Professional-grade vacuums for a clean interior.
+
+---
+
+## Floor Mat Cleaner
+
+Easy-to-use machine for fresh, clean floor mats.
+
+---
+
+## Car Wax
+
+Add lasting shine and protection.
+
+---
+
+# Amenities Section
+
+Highlight available amenities:
+
+* Self-Service Wash Bays
+* Automatic Wash Bays
+* Spot-Free Rinse
+* Vacuum Stations
+* Floor Mat Cleaning Machine
+* Air Dryers
+* Foaming Brush
+* Hot Water
+* Trash Stations
+* Credit Card Payments
+* Coin Payments
+* Well-Lit Facility
+* Open 24 Hours
+
+---
+
+# About Section
+
+Headline
+
+A Better Car Wash Experience in Joplin
+
+Content
+
+Crystal Clean Car Wash has earned a reputation for providing a cleaner vehicle at a better value. Whether you're looking for the convenience of an automatic wash or prefer the control of a self-service bay, our facility is designed to help you achieve professional-quality results.
+
+Drivers appreciate our well-maintained equipment, powerful vacuums, hot water, spot-free rinse, and clean facility. Whether you're washing off bugs after a road trip, cleaning up after work, or simply keeping your vehicle looking its best, Crystal Clean Car Wash makes it easy.
+
+Open 24 hours a day, every day, we're here whenever your vehicle needs attention.
+
+---
+
+# Reviews
+
+Create a modern testimonial slider.
+
+Highlight recurring themes:
+
+★★★★★
+
+Clean facility
+
+Excellent value
+
+Spot-free rinse
+
+Friendly staff
+
+Powerful vacuums
+
+Affordable prices
+
+Well-maintained equipment
+
+Open 24 hours
+
+Use excerpts from actual reviews.
+
+Examples:
+
+"This was one of the cleanest and best-maintained car washes I've ever used. My BMW looked fantastic afterward."
+
+—
+
+"The vacuums were incredibly powerful and the towels made it easy to finish every detail."
+
+—
+
+"My truck came out cleaner than expensive automatic washes that cost four times as much."
+
+—
+
+"The spot-free rinse actually works. My truck dried without water spots."
+
+—
+
+"We stopped during a road trip and were impressed by the clean bays, hot water, and excellent equipment."
+
+—
+
+"The owner was responsive and genuinely cared about customer satisfaction."
+
+---
+
+# Gallery
+
+Create an image gallery.
+
+Categories:
+
+Automatic Wash
+
+Self-Service Bays
+
+Luxury Cars
+
+SUVs
+
+Trucks
+
+Before & After
+
+Night Lighting
+
+Facility Photos
+
+Hover animations
+
+Lightbox gallery
+
+---
+
+# Process Section
+
+Headline
+
+Wash Your Way
+
+Step 1
+
+Choose Your Wash
+
+Step 2
+
+Drive Into the Bay
+
+Step 3
+
+Wash & Clean
+
+Step 4
+
+Vacuum & Finish
+
+Step 5
+
+Drive Away Sparkling Clean
+
+---
+
+# FAQ
+
+Include:
+
+What is the difference between touchless and soft-touch?
+
+Are you open 24 hours?
+
+Do you accept credit cards?
+
+Do you have self-service wash bays?
+
+Do you offer vacuums?
+
+Do you have a spot-free rinse?
+
+Can I wash large trucks or SUVs?
+
+Do you offer waxing?
+
+---
+
+# CTA Banner
+
+Background
+
+Vehicle covered in water droplets with dramatic lighting.
+
+Headline
+
+Ready for a Crystal Clean Shine?
+
+Subheadline
+
+Stop by anytime—day or night—and experience one of Joplin's favorite car washes.
+
+Buttons
+
+Get Directions
+
+Call Now
+
+---
+
+# Contact Section
+
+Business Information
+
+Crystal Clean Car Wash
+
+2202 S Main St
+
+Joplin, MO 64804
+
+Phone
+
+(417) 624-8717
+
+Hours
+
+Open 24 Hours
+
+Embedded Google Map
+
+---
+
+# Footer
+
+Include
+
+Business Information
+
+Quick Links
+
+Amenities
+
+Business Hours
+
+Privacy Policy
+
+Terms
+
+Copyright
+
+Social Icons
+
+---
+
+# SEO Requirements
+
+Primary Keywords
+
+Car Wash Joplin MO
+
+Automatic Car Wash Joplin
+
+Self-Service Car Wash Joplin
+
+Touchless Car Wash Joplin
+
+Soft Touch Car Wash Joplin
+
+24 Hour Car Wash Joplin
+
+Secondary Keywords
+
+Vacuum Car Wash
+
+Spot-Free Rinse
+
+Car Wax Joplin
+
+Self Serve Car Wash Near Me
+
+Truck Wash Joplin
+
+Affordable Car Wash Joplin
+
+Professional Car Wash
+
+---
+
+# Performance Requirements
+
+Build using:
+
+* React
+* Next.js
+* Tailwind CSS
+* Framer Motion
+
+Include:
+
+* Mobile-first responsive design
+* Sticky "Get Directions" button on mobile
+* Floating "Call Now" button
+* Google Maps integration
+* Schema.org Local Business markup
+* Open Graph tags
+* SEO meta descriptions
+* Lazy-loaded images
+* Accessibility (WCAG compliant)
+* Lighthouse performance score target of 95+
+
+---
+
+# Conversion Features
+
+Include throughout the site:
+
+* Prominent "Get Directions" buttons
+* Click-to-call functionality
+* Review highlights
+* Open 24 Hours badge
+* Feature icons
+* Google Reviews section
+* Before-and-after gallery placeholders
+* Interactive FAQ
+* Embedded map with directions
+
+---
+
+# Visual Inspiration
+
+The website should resemble premium modern automotive brands while remaining approachable for everyday drivers. Use vibrant blues, crisp whites, water textures, glossy reflections, and cinematic car photography to reinforce cleanliness and quality. Visitors should immediately understand that Crystal Clean Car Wash offers a superior wash experience with both touchless and soft-touch options, excellent amenities, and the convenience of being open 24 hours a day.
