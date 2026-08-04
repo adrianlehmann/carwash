@@ -77,15 +77,6 @@ export default function Header() {
         {/* Desktop Actions */}
         <div className="hidden lg:flex items-center gap-4">
           <a
-            href="#contact"
-            onClick={(e) => scrollToSection(e, '#contact')}
-            className={`flex items-center gap-2 text-sm font-medium transition-colors ${
-              isScrolled ? 'text-foreground/80 hover:text-primary' : 'text-white/90 hover:text-white'
-            }`}
-          >
-            Get Directions
-          </a>
-          <a
             href="tel:4176248717"
             className="flex items-center gap-2 bg-primary hover:bg-primary/90 text-white px-5 py-2.5 rounded-full font-medium transition-all shadow-md hover:shadow-lg"
           >
@@ -130,13 +121,6 @@ export default function Header() {
                 ))}
               </nav>
               <div className="flex flex-col gap-4 pt-4">
-                <a
-                  href="#contact"
-                  onClick={(e) => scrollToSection(e, '#contact')}
-                  className="flex items-center justify-center gap-2 bg-muted text-foreground px-6 py-3 rounded-xl font-medium w-full"
-                >
-                  Get Directions
-                </a>
                 <a
                   href="tel:4176248717"
                   className="flex items-center justify-center gap-2 bg-primary text-white px-6 py-3 rounded-xl font-medium w-full shadow-md"
