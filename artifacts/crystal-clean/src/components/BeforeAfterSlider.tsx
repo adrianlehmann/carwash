@@ -100,11 +100,22 @@ export function BeforeAfterSlider({
         </div>
       </div>
 
-      <div className="absolute top-4 left-4 bg-black/60 text-white px-3 py-1.5 rounded-full text-xs font-semibold pointer-events-none">
-        Before
+      {/* Labels clipped with the same wipe as the images */}
+      <div
+        className="absolute inset-0 pointer-events-none"
+        style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
+      >
+        <div className="absolute top-4 left-4 bg-black/60 text-white px-3 py-1.5 rounded-full text-xs font-semibold">
+          Before
+        </div>
       </div>
-      <div className="absolute top-4 right-4 bg-black/60 text-white px-3 py-1.5 rounded-full text-xs font-semibold pointer-events-none">
-        After
+      <div
+        className="absolute inset-0 pointer-events-none"
+        style={{ clipPath: `inset(0 0 0 ${sliderPosition}%)` }}
+      >
+        <div className="absolute top-4 right-4 bg-black/60 text-white px-3 py-1.5 rounded-full text-xs font-semibold">
+          After
+        </div>
       </div>
     </div>
   );
