@@ -64,7 +64,7 @@ export default function Hero() {
                 className="flex items-center justify-center gap-2 bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg shadow-primary/30 hover:shadow-primary/50"
               >
                 <MapPin size={20} />
-                Get Directions
+                Get in Touch
               </a>
               <a
                 href="tel:4176248717"
